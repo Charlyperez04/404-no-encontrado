@@ -1,0 +1,14 @@
+.text h1{
+    font-size: 64px;
+}
+.text p{
+    font-size: 18px;
+}
+.container{
+    grid-template-columns: repeat(2, 1fr);
+    height: 84vh;
+    align-items: center;
+}
+footer {
+    margin: 0;
+}
