@@ -1,8 +1,15 @@
+.text{
+    padding: 0 100px;
+}
 .text h1{
     font-size: 64px;
 }
 .text p{
     font-size: 18px;
+    margin-top: 80px;
+}
+.text button{
+    margin-top: 90px;
 }
 .container{
     grid-template-columns: repeat(2, 1fr);
